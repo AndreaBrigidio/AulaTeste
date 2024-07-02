@@ -6,3 +6,4 @@ def verificar_time(numero_matricula):
 
 numero_matricula = int(input("Digite o número da matrícula: "))
 verificar_time(numero_matricula)
+
