@@ -7,8 +7,7 @@ import time
 
 browser = Firefox()
 
-link = "https://page-test-selenium.s3.sa-east-1.amazonaws.com/index.html"
-
+link = 'https://google.com'
 browser.get(link)
 
 input_area = browser.find_element(By.NAME, "q")
@@ -46,7 +45,3 @@ input_msg.send_keys('Meu primeiro script de automação - Squad VAKR')
 
 button_enviar = browser.find_element(By.XPATH, "//button[@type='submit']")
 button_enviar.click()
-
-time.sleep(10)
-
-browser.quit()
