@@ -11,5 +11,3 @@ if falta == "sim":
 
 else:
     print('QUE BOM VER VOCÊ DE VOLTA. A PARTIR DE AGORA INICIAMOS MAIS UMA CONTAGEM DE 21 DIAS PARA A PROMO TREINA JUNTO.')
-
-    dias int(input('quantos dias de frequência você tem?: '))
