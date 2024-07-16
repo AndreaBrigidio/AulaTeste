@@ -1,3 +1,5 @@
+#em Squad
+
 # inserir um valor
 valor_inserido = float(input("Insira um valor: "))
 
