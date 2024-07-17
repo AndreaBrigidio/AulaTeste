@@ -3,11 +3,12 @@ import os #importante a biblioteca do sistema operacional
 #Criando uma lista de dados ficticia
 
 dados = [
-    {'nome': 'Andre', 'idade' : 39, 'cidade' : 'Ilhabela'},
-    {'nome': 'Alice', 'idade' : 31, 'cidade' : 'Sao Sebastiao'},
-    {'nome': 'Gustavo', 'idade' : 38, 'cidade' : 'Sao Bernardo do Campo'},
-    {'nome': 'Gabriel', 'idade' : 40, 'cidade' : 'Florianopolis'}
+    {'nome': 'Andrea', 'idade' : 52, 'cidade' : 'Ilhabela'},
+    {'nome': 'Paula', 'idade' : 34, 'cidade' : 'Sao Sebastiao'},
+    {'nome': 'Marcos', 'idade' : 48, 'cidade' : 'Indaiatuba'},
+    {'nome': 'Thiago', 'idade' : 25, 'cidade' : 'Recife'}
 ]
+
 
 #Diretório onde o arquivo será salvo
 diretorio = '.\Aula-IJJ-QA-Avancado\Aula07_EvitandoProblemas\DesafioCaique_BibliotecaOS'
