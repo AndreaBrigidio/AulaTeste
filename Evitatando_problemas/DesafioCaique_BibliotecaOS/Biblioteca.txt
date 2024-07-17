@@ -1,0 +1,4 @@
+Nome: Andrea, Idade: 52, Cidade: Ilhabela
+Nome: Paula, Idade: 34, Cidade: Sao Sebastiao
+Nome: Marcos, Idade: 48, Cidade: Indaituba
+Nome: Thiago, Idade: 25, Cidade: Recife
